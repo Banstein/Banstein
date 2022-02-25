@@ -1,6 +1,6 @@
 # Hi, I'm Islam Bahnas
 <h3 font-size="20">I'm a Full-stack developer and Entrepreneur</h3>
-- 🌱 I’m currently working at **Microverse** 
+- 🌱 I’m currently learning JavaScript
 <br />
 <h3>Languages</h3>
 <p>
