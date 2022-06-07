@@ -20,6 +20,10 @@
     <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"
       alt="json"/>
   </a>
+  <a href="https://www.ruby-lang.org/fr/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" 
+      alt="ruby"/> 
+  </a>
 </p>
 <p>
 <h3>Frontend</h3>
@@ -42,6 +46,15 @@
   </a> 
 </p>
 <p>
+  <h3>Backend</h3>
+  <p>
+    <a href="https://rubyonrails.org/" target="_blank"> 
+      <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails"/> 
+    </a>
+  <a href="https://postgresql.org/" target="_blank"> 
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgreSQL"/> 
+    </a>
+  </p>
 <h3>Version Control</h3>
 <p>
   <a href="https://git-scm.com/" target="_blank">
@@ -64,6 +77,14 @@
   <a href="https://www.microsoft.com/fr-fr/windows" target="_blank"> 
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/>
   </a>
+  <a href="https://ubuntu.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+  </a>
+  <a href="https://www.jetbrains.com/ruby/" target="_blank"> 
+    <img src="https://user-images.githubusercontent.com/35707975/172474961-dd1370cf-f11f-4b64-a686-cbb9618e1b91.png" width="30" alt="rubyMine"/>
+  </a>
+  
+
 </p>
 
 ### MY GITHUB STATISTICS
