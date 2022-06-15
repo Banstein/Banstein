@@ -1,6 +1,7 @@
 # Hi, I'm Islam Bahnas
 <h3 font-size="20">I'm a Full-stack developer and Entrepreneur</h3>
 - 🌱 I’m currently learning Ruby on Rails
+
 <br />
 <h3>Languages</h3>
 <p>
@@ -90,9 +91,9 @@
 
 [![Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Banstein&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Banstein&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Banstein&theme=tokyonight&hide_border=true" alt="Banstein" />
 
-<img width="380" src="http://github-readme-streak-stats.herokuapp.com?user=Banstein&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Banstein&card_width=250&langs_count=8&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Connect with me</h3>
 
