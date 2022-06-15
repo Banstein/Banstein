@@ -1,6 +1,6 @@
 # Hi, I'm Islam Bahnas
 <h3 font-size="20">I'm a Full-stack developer and Entrepreneur</h3>
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning Ruby on Rails
 <br />
 <h3>Languages</h3>
 <p>
@@ -93,7 +93,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Banstein&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 
 <img width="380" src="http://github-readme-streak-stats.herokuapp.com?user=Banstein&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
-----
 
 <h3>Connect with me</h3>
 
