@@ -80,14 +80,13 @@
   <a href="https://ubuntu.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a>
-  <a href="https://www.jetbrains.com/ruby/" target="_blank"> 
-    <img src="https://user-images.githubusercontent.com/35707975/172474961-dd1370cf-f11f-4b64-a686-cbb9618e1b91.png" width="30" alt="rubyMine"/>
-  </a>
-  
-
 </p>
 
 ### MY GITHUB STATISTICS
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Banstein/count.svg" />
+</p>
 
 [![Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Banstein&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 
