@@ -83,7 +83,7 @@
 </p>
 
 ### MY GITHUB STATISTICS
-<p align="center"> 
+<p align="start"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Banstein/count.svg" />
 </p>
