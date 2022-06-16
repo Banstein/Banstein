@@ -89,13 +89,11 @@
   <img src="https://profile-counter.glitch.me/Banstein/count.svg" />
 </p>
 
-<!-- [![Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Banstein&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <img width="380" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Banstein&theme=tokyonight&hide_border=true" alt="Banstein" />
-<img width="380" src="https://github-readme-stats.vercel.app/api?username=Banstein&show_icons=true&theme=radical"/> &nbsp;
-<img width="380" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyoubMS&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AyoubMS" />
+<img width="380" align="center" src="https://github-readme-stats.vercel.app/api?username=Banstein&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="380" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Banstein&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Banstein" />
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Banstein&card_width=250&langs_count=8&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <h3>Connect with me</h3>
 
