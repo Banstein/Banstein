@@ -1,7 +1,6 @@
 # Hi, I'm Islam Bahnas
 <h3 font-size="20">I'm a Full-stack developer and Entrepreneur</h3>
 - 🌱 I’m currently learning Ruby on Rails
-- 🌱 I'm looking for new opportunities
 
 <br />
 <h3>Languages</h3>
